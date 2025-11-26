@@ -1,0 +1,16 @@
+{
+  "name": "verti-html5up-scss",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.1",
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "scss-reset": "^1.4.6"
+  }
+}

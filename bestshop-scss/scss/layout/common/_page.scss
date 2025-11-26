@@ -1,0 +1,20 @@
+@use "../../variables/general";
+@use "../../mixins/mixins";
+@use "../common/typography";
+@use "../header/header";
+@use "../banner/banner";
+@use "../common/buttons";
+@use "../common/common";
+@use "../blog/blog";
+@use "../main/main";
+@use "../footer/footer";
+body {
+  font-family: general.$primary-font ;
+  background-color: general.$background-color;
+  font-size: 11pt;
+  @include mixins.mobile() { font-size: 5pt; }
+  @include mixins.tablet-portrait() { font-size: 7pt; }
+  @include mixins.tablet() { font-size: 9pt; }
+}
+
+.section { padding: 50px 0; }
