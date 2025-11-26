@@ -1,22 +1,16 @@
-@use "../../variables/general";
-.footer {
-  .footer__link { display: block; color: general.$text-color; line-height: 2em;}
-  i {
-    background-color: general.$icon-color;
-    color: general.$icon-background-color;
-    padding: 5px;
-    width: 30px;
-    height: 30px;
-    display: inline-flex;
-    font-size: 1.25em;
-    justify-content: center;
-    align-items: center;
-    border-radius: 3px;
-  }
-  p { line-height: 2em;}
-  .footer__social { margin: 15px 0;}
-  .footer_copyright {
-    margin: 15px auto;
-    color: general.$copy-color;
-  }
-}
+/*
+<!-- footer -->
+    <footer class="footer">
+        <div class="footer__container container">
+            <div class="footer__info">
+                <a href="#" class="logo">BestShop</a>
+                <span class="footer__copy">© 2019 BestShop LTD, All Rights Reserved</span>
+            </div>
+            <div class="footer__icons">
+                <a href="#"><img src="assets/Twitter.svg" alt="twitter" /></a>
+                <a href="#"><img src="assets/Facebook.svg" alt="facebook" /></a>
+            </div>
+        </div>
+    </footer>
+<!-- e: footer -->
+*/
