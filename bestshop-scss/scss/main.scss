@@ -1,3 +1,6 @@
 /* @use 'scss-reset/_reset' as *;  */
-@use 'layout/common/grid';
-@use 'layout/common/page';
+/* @use 'layout/common/grid';
+@use 'layout/common/page';   */
+
+@import "generic/reset";
+@import "settings";
