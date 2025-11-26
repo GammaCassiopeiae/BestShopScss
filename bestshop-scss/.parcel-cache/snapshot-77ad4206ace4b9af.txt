@@ -1,56 +1,55 @@
-55
-59C:\Users\tadej\Desktop\VertiShop\bestshop-scss\package.json134086245180835052 0
-51C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist134086250670657115 1
-57C:\Users\tadej\Desktop\VertiShop\bestshop-scss\.gitignore134086245180751273 0
-78C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\footer\_footer.scss134086245181493650 0
-74C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\main\_main.scss134086245181680014 0
-65C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\footer134086245181483635 1
-53C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets134086245180982911 1
-65C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\header134086245181600220 1
-57C:\Users\tadej\Desktop\VertiShop\bestshop-scss\index.html134086245180787712 0
-88C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\verti-html5up-scss-main.574c7455.css134086247897702276 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic03.d3e6ea35.jpg134086247897493412 0
-64C:\Users\tadej\Desktop\VertiShop\bestshop-scss\package-lock.json134086245180821409 0
-56C:\Users\tadej\Desktop\VertiShop\bestshop-scss\README.md134086245180751273 0
-51C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss134086245181777656 1
-58C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout134086245181639524 1
-87C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\verti-html5up-scss-main.3464ddca.js134086247897824396 0
-62C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\index.html134086247897633340 0
-74C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\blog\_blog.scss134086245181249486 0
-61C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\main.scss134086247892155334 0
-58C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\mixins134086245181747355 1
-61C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\variables134086245181807655 1
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\blog134086245181249486 1
-75C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\variables\_general.scss134086245181807655 0
-71C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\mixins\_mixins.scss134086245181757370 0
-65C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\banner134086245181108306 1
-76C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\common\_page.scss134086245181401450 0
-65C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\common134086245181420664 1
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\main134086245181680014 1
-81C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\bestshop-scss.3464ddca.js.map134086250670657115 0
-78C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\header\_header.scss134086245181570184 0
-76C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\header\_logo.scss134086245181585232 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic01.bab3a2e5.jpg134086247897702276 0
-75C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\header\_nav.scss134086245181610344 0
-81C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\common\typography.scss134086245181420664 0
-79C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\common\_buttons.scss134086245181279871 0
-78C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\common\_common.scss134086245181279871 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic02.jpg134086245180893202 0
-76C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\common\_grid.scss134086245181387299 0
-78C:\Users\tadej\Desktop\VertiShop\bestshop-scss\scss\layout\banner\_banner.scss134086245181108306 0
-91C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\verti-html5up-scss-main.3464ddca.js.map134086247897848594 0
-77C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\bestshop-scss.3464ddca.js134086250670571130 0
-78C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\bestshop-scss.574c7455.css134086250670571130 0
-82C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\bestshop-scss.574c7455.css.map134086250670637059 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic02.23db3259.jpg134086247897457038 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic04.5a36e9fc.jpg134086247897679868 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic05.09d8e0c2.jpg134086247897702276 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic06.8c6c21cf.jpg134086247897493412 0
-70C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\pic07.7ba2fd93.jpg134086247897493412 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic06.jpg134086245180965667 0
-92C:\Users\tadej\Desktop\VertiShop\bestshop-scss\dist\verti-html5up-scss-main.574c7455.css.map134086247897739375 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic01.jpg134086245180867414 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic03.jpg134086245180924837 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic04.jpg134086245180936982 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic05.jpg134086245180948181 0
-63C:\Users\tadej\Desktop\VertiShop\bestshop-scss\assets\pic07.jpg134086245180982911 0
+54
+97C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\header\_logo.scss134086256770997156 0
+74C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets134086256770932913 1
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic04.jpg134086256770917666 0
+72C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss134086256771017155 1
+80C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\package.json134086256770942812 0
+85C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\package-lock.json134086256770942812 0
+72C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist134086250670657115 1
+78C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\index.html134086256770932913 0
+77C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\README.md134086256770891679 0
+79C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout134086256770997156 1
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic07.jpg134086256770932913 0
+82C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\main.scss134086256771007155 0
+79C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\mixins134086256771007155 1
+82C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\variables134086256771017155 1
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic02.jpg134086256770903149 0
+96C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\variables\_general.scss134086256771017155 0
+92C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\mixins\_mixins.scss134086256771007155 0
+86C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\banner134086256770952799 1
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\blog134086256770962794 1
+95C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\blog\_blog.scss134086256770962794 0
+86C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\common134086256770972804 1
+97C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\common\_page.scss134086256770972804 0
+86C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\footer134086256770987160 1
+86C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\header134086256770997156 1
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic01.jpg134086256770903149 0
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\main134086256771007155 1
+99C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\footer\_footer.scss134086256770987160 0
+95C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\main\_main.scss134086256771007155 0
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic05.jpg134086256770917666 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic06.8c6c21cf.jpg134086247897493412 0
+96C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\header\_nav.scss134086256770997156 0
+99C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\header\_header.scss134086256770997156 0
+102C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\common\typography.scss134086256770987160 0
+100C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\common\_buttons.scss134086256770962794 0
+99C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\common\_common.scss134086256770972804 0
+97C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\common\_grid.scss134086256770972804 0
+99C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout\banner\_banner.scss134086256770952799 0
+98C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\bestshop-scss.3464ddca.js134086250670571130 0
+102C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\bestshop-scss.3464ddca.js.map134086250670657115 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic07.7ba2fd93.jpg134086247897493412 0
+99C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\bestshop-scss.574c7455.css134086250670571130 0
+109C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\verti-html5up-scss-main.574c7455.css134086247897702276 0
+103C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\bestshop-scss.574c7455.css.map134086250670637059 0
+83C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\index.html134086247897633340 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic01.bab3a2e5.jpg134086247897702276 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic02.23db3259.jpg134086247897457038 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic03.d3e6ea35.jpg134086247897493412 0
+112C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\verti-html5up-scss-main.3464ddca.js.map134086247897848594 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic04.5a36e9fc.jpg134086247897679868 0
+91C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\pic05.09d8e0c2.jpg134086247897702276 0
+108C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\verti-html5up-scss-main.3464ddca.js134086247897824396 0
+113C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist\verti-html5up-scss-main.574c7455.css.map134086247897739375 0
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic03.jpg134086256770903149 0
+84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic06.jpg134086256770917666 0
