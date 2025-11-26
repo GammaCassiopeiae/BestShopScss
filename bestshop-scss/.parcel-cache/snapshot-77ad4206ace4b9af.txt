@@ -6,7 +6,7 @@
 80C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\package.json134086256770942812 0
 85C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\package-lock.json134086256770942812 0
 72C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\dist134086250670657115 1
-78C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\index.html134086256770932913 0
+78C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\index.html134086274533155139 0
 77C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\README.md134086256770891679 0
 79C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\scss\layout134086256770997156 1
 84C:\Users\tadej\Desktop\CODERSLAB PREWORK\BestShopScss\bestshop-scss\assets\pic07.jpg134086256770932913 0
