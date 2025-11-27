@@ -1,42 +1,31 @@
 @use "../../variables/general";
 @use "../../mixins/mixins";
+
+/* buttons  btn  */
 .btn {
-  margin: 10px 0;
-  padding: 10px 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 20px;
-  border-radius: 5px;
-  background-color: general.$secondary-color;
-  color: general.$white-color;
-  text-decoration: none;
-  font-weight: 800;
-  width: 100%;
-  @include mixins.tablet-portrait() {
-    justify-content: center;
-    flex-direction: row-reverse;
-  }
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  padding: 16px 65px;
+  border-radius: var(--button-radius);
+  border: none;
 }
 
-.btn-large {
-  padding: 25px 20px;
-  font-size: 2.25em;
-  @include mixins.tablet() { font-size: 1.75em; }
-  @include mixins.tablet-portrait() { font-size: 1.7em; }
+.btn--primary {
+  background-color: var(--color-primary);
+  border-radius: var(--button-radius);
+  box-shadow: 3px 10px 14px var(--color-primary-shadow);
 }
 
-.btn-small {
-  width: fit-content;
-  padding: 15px 25px;
+.btn--redish {
+  background-color: var(--color-redish);
 }
 
-.btn-primary {
-  background-color: general.$secondary-color;
-  color: general.$white-color;
+.btn--green {
+  background-color: var(--color-green);
 }
 
-.btn-secondary {
-  background-color: general.$background-color;
-  color: general.$primary-color;
+.btn--large {
+  padding: 22px 155px;
 }
+/* e: buttons  btn  */

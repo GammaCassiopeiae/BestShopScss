@@ -1,7 +1,11 @@
 @use "../../variables/general";
+@use "../../settings/colors";
+@use "../../settings/fonts";
+@use "../../settings/index";
 @use "../../mixins/mixins";
 @use "../common/typography";
 @use "../header/header";
+@use "../header/logo";
 @use "../banner/banner";
 @use "../common/buttons";
 @use "../common/common";
@@ -18,3 +22,27 @@ body {
 }
 
 .section { padding: 50px 0; }
+/*  zgoraj stara koda*/
+
+body {
+  font-family: var(--font-open-sans);
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: var(--font-raleway);
+  font-size: 2em; /* 2.25rem  36px */
+}
+
+
+/**
+ * kontejner
+ */
+.container {
+  width: 1352px;
+  margin: 0 auto;
+}
