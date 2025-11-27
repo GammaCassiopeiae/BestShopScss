@@ -32,10 +32,13 @@ $button-radius
   background-color: colors.$color-primary;
   border-radius: index.$button-radius;
   box-shadow: 3px 10px 14px colors.$color-primary-shadow;
+  position: relative;
+  top: 20px;
 }
 
 .btn--redish {
   background-color: colors.$color-redish;
+  
 }
 
 .btn--green {
@@ -43,12 +46,15 @@ $button-radius
   border-radius: index.$button-radius;
   color: white;
   font-weight: bold;
+  font-size: small;
   display: inline-block;
-  padding: 16px 65px;
+  padding: 15px 65px;
   border: none;
+  position: relative;
+  top: 20px;
 }
 
 .btn--large {
-  padding: 22px 155px;
+  padding: 16px 65px;
 }
 /* e: buttons  btn  */

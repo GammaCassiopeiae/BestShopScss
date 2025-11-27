@@ -81,7 +81,7 @@ colors.$color-grey;
   justify-content: space-between;
   align-items: flex-end;
   margin-bottom: 37px;
-  border-radius: 5px;
+  border-radius: 50px;
 }
 
 .benefits__text {
@@ -162,8 +162,10 @@ $color-primary-shadow: rgba(7, 172, 230, .16);
 }
 
 .benefits__single--phone .benefits__image img {
-  width: 426px;
-  height: auto;
+  width: 250px;
+  height: 250px;
+  background-color: colors.$color-primary;
+  border-radius: 100%;
 }
 
 .benefits__single--phone .benefits__text {
@@ -195,13 +197,15 @@ $color-primary-shadow: rgba(7, 172, 230, .16);
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--accent-color);
+  background-color: colors.$color-white; 
   border: none;
   margin-left: 60px;
 }
 
 .benefits__single--image img {
-  width: 295px;
+  width: 150px;
   height: auto;
   margin-top: 55px;
+  padding: 200px;
+  background-color: colors.$color-green;
 }

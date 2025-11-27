@@ -398,6 +398,8 @@ textarea {
   padding: 16px 65px;
   font-weight: bold;
   display: inline-block;
+  position: relative;
+  top: 20px;
   box-shadow: 3px 10px 14px #07ace629;
 }
 
@@ -410,13 +412,16 @@ textarea {
   background-color: #55dfb4;
   border: none;
   border-radius: 35px;
-  padding: 16px 65px;
+  padding: 15px 65px;
+  font-size: small;
   font-weight: bold;
   display: inline-block;
+  position: relative;
+  top: 20px;
 }
 
 .btn--large {
-  padding: 22px 155px;
+  padding: 16px 65px;
 }
 
 .header {
@@ -425,10 +430,12 @@ textarea {
 }
 
 .header .nav {
+  flex-direction: row;
   display: flex;
 }
 
 .header .header__container {
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   width: 1100px;
@@ -837,6 +844,17 @@ ul .header__nav .nav__element {
   margin-top: 19px;
 }
 
+.statistics__container {
+  text-align: center;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.statistics__title {
+  text-align: center;
+}
+
 .benefits {
   display: flex;
 }
@@ -848,7 +866,7 @@ ul .header__nav .nav__element {
 .benefits__single {
   background-color: #fff;
   border: 1px solid #e8e9ed;
-  border-radius: 5px;
+  border-radius: 50px;
   justify-content: space-between;
   align-items: flex-end;
   margin-bottom: 37px;
@@ -932,8 +950,10 @@ ul .header__nav .nav__element {
 }
 
 .benefits__single--phone .benefits__image img {
-  width: 426px;
-  height: auto;
+  background-color: #08a6e4;
+  border-radius: 100%;
+  width: 250px;
+  height: 250px;
 }
 
 .benefits__single--phone .benefits__text {
@@ -959,7 +979,7 @@ ul .header__nav .nav__element {
 }
 
 .benefits__single--image {
-  background-color: var(--accent-color);
+  background-color: #fff;
   border: none;
   flex-grow: 1;
   justify-content: center;
@@ -969,9 +989,11 @@ ul .header__nav .nav__element {
 }
 
 .benefits__single--image img {
-  width: 295px;
+  background-color: #55dfb4;
+  width: 150px;
   height: auto;
   margin-top: 55px;
+  padding: 200px;
 }
 
 .contact {

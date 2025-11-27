@@ -34,13 +34,14 @@ $font-open-sans: "Open Sans", sans-serif;
     height: 70px;
     box-shadow: 0 3px 6px rgba(0,0,0,.16);
     
+    
 }
 
 .header .nav {
     display: flex;
-   /* flex-direction: row;
-    justify-content: center;  
-    */
+    flex-direction: row;
+    
+    
 }
 .header .header__container {
     display: flex;
@@ -48,6 +49,7 @@ $font-open-sans: "Open Sans", sans-serif;
     justify-content: space-between;
     align-items: center;
     height: 100%; 
+    flex-direction: row;
     
 }
 .header .header__container .logo {

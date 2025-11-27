@@ -132,3 +132,14 @@ fonts.$font-raleway;  "Raleway", sans-serif;
   color: colors.$color-grey;  
   margin-top: 19px;
 }
+
+.statistics__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  text-align: center;
+}
+
+.statistics__title{
+  text-align: center;
+}
