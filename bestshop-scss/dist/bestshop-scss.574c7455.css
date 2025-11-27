@@ -433,6 +433,11 @@ textarea {
   color: #a5a5a5;
 }
 
+li {
+  margin-right: 2px;
+  display: inline;
+}
+
 .header .nav {
   color: #a5a5a5;
   flex-direction: row;

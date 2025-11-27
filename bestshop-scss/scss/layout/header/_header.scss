@@ -39,6 +39,10 @@ $font-open-sans: "Open Sans", sans-serif;
     color: colors.$color-grey;
     
 }
+li {
+  display: inline;
+  margin-right: 2px;
+}
 
 
 .header .nav {
