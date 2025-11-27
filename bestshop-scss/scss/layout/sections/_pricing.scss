@@ -107,7 +107,7 @@ $button-radius
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px solid var(--accent-color);
+  border: 2px solid colors.$color-primary;
 }
 .pricing__details {
   margin-top: 34px;
@@ -126,7 +126,7 @@ $button-radius
   font-family: fonts.$font-open-sans;
   font-weight: 300;
   margin-top: 25px;
-  color: var(--accent-color);
+  color: colors.$color-green;
 }
 
 .pricing__limited {
@@ -163,12 +163,12 @@ $button-radius
   position: relative;
   bottom: -25px;
   font-size: 0.8125rem;
-  background-color: var(--accent-color);
+  background-color: colors.$color-redish;
 }
 
 /*** Basic Box ***/
 .pricing__box--basic {
- --accent-color: colors.$color-redish; 
+ --accent-color: colors.$color-primary; 
 }
 
 .pricing__box--basic .pricing__price {
@@ -178,7 +178,7 @@ $button-radius
 
 /*** Professional Box **/
 .pricing__box--professional {
-  --accent-color: var(--color-primary);
+  color: colors.$color-black;
   width: 400px;
   margin: 0 40px;
   box-shadow: 5px 1px 27px colors.$color-primary-shadow;
@@ -194,5 +194,5 @@ $button-radius
 
 /*** Premium Box ***/
 .pricing__box--premium {
-  --accent-color: colors.$color-green;
+  color: colors.$color-black;
 }

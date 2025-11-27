@@ -383,6 +383,7 @@ textarea {
 
 .btn {
   color: #fff;
+  background-color: #08a6e4;
   border: none;
   border-radius: 35px;
   padding: 16px 65px;
@@ -391,8 +392,12 @@ textarea {
 }
 
 .btn--primary {
+  color: #fff;
   background-color: #08a6e4;
   border-radius: 35px;
+  padding: 16px 65px;
+  font-weight: bold;
+  display: inline-block;
   box-shadow: 3px 10px 14px #07ace629;
 }
 
@@ -401,7 +406,13 @@ textarea {
 }
 
 .btn--green {
+  color: #fff;
   background-color: #55dfb4;
+  border: none;
+  border-radius: 35px;
+  padding: 16px 65px;
+  font-weight: bold;
+  display: inline-block;
 }
 
 .btn--large {
@@ -659,7 +670,7 @@ ul .header__nav .nav__element {
 }
 
 .pricing__box {
-  border: 2px solid var(--accent-color);
+  border: 2px solid #08a6e4;
   border-radius: 18px;
   flex-direction: column;
   align-items: center;
@@ -680,7 +691,7 @@ ul .header__nav .nav__element {
 }
 
 .pricing__price {
-  color: var(--accent-color);
+  color: #55dfb4;
   margin-top: 25px;
   font-family: Open Sans, sans-serif;
   font-size: 2.875rem;
@@ -718,14 +729,14 @@ ul .header__nav .nav__element {
 }
 
 .pricing__box .btn {
-  background-color: var(--accent-color);
+  background-color: #fb3b64;
   font-size: .8125rem;
   position: relative;
   bottom: -25px;
 }
 
 .pricing__box--basic {
-  --accent-color: colors. $ color-redish;
+  --accent-color: colors. $ color-primary;
 }
 
 .pricing__box--basic .pricing__price {
@@ -733,7 +744,7 @@ ul .header__nav .nav__element {
 }
 
 .pricing__box--professional {
-  --accent-color: var(--color-primary);
+  color: #000;
   width: 400px;
   margin: 0 40px;
   box-shadow: 5px 1px 27px #07ace629;
@@ -748,7 +759,7 @@ ul .header__nav .nav__element {
 }
 
 .pricing__box--premium {
-  --accent-color: colors. $ color-green;
+  color: #000;
 }
 
 .statistics {

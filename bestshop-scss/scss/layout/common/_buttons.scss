@@ -20,10 +20,15 @@ $button-radius
   display: inline-block;
   padding: 16px 65px;
   border-radius: index.$button-radius;
+  background-color: colors.$color-primary;
   border: none;
 }
 
 .btn--primary {
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  padding: 16px 65px;
   background-color: colors.$color-primary;
   border-radius: index.$button-radius;
   box-shadow: 3px 10px 14px colors.$color-primary-shadow;
@@ -35,6 +40,12 @@ $button-radius
 
 .btn--green {
   background-color: colors.$color-green;
+  border-radius: index.$button-radius;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  padding: 16px 65px;
+  border: none;
 }
 
 .btn--large {
