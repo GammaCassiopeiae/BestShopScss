@@ -429,7 +429,12 @@ textarea {
   box-shadow: 0 3px 6px #00000029;
 }
 
+.nav__element .nav__link {
+  color: #a5a5a5;
+}
+
 .header .nav {
+  color: #a5a5a5;
   flex-direction: row;
   display: flex;
 }
