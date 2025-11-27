@@ -1,5 +1,5 @@
-@import "fonts";
-@import "colors";
-@import "../mixins/mixins";
+@use "fonts";
+@use "colors";
+@use "../mixins/mixins";
 
 $button-radius: 35px;

@@ -717,4 +717,4 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}]},["7vgYr","j4kuM"], "j4kuM", "parcelRequire5dc4", {})
 
-//# sourceMappingURL=verti-html5up-scss-main.3464ddca.js.map
+//# sourceMappingURL=bestshop-scss.3464ddca.js.map

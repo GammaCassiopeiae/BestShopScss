@@ -2,5 +2,18 @@
 /* @use 'layout/common/grid';
 @use 'layout/common/page';   */
 
-@import "generic/reset";
-@import "settings";
+@use "generic/reset";
+@use "settings/colors";
+@use "layout/common/buttons";
+@use "layout/common/page";
+@use"layout/footer/footer";
+@use "layout/header/header";
+@use "layout/header/logo";
+@use "layout/header/nav";
+@use "layout/main/main";
+@use "layout/sections/benefits";
+@use "layout/sections/contact";
+@use "layout/sections/opening";
+@use "layout/sections/pricing";
+@use "layout/sections/statistics";
+
