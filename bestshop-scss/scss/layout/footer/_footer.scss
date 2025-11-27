@@ -17,6 +17,18 @@
 /**
  * Footer
  */
+/*  Colors scss ->  settings/colors 
+$color-primary: #08A6E4;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+$color-green: #55DFB4;
+$color-black: #000000;
+$color-white: #ffffff;
+$color-grey: #A5A5A5;   colors.$color-grey;
+$color-light-grey: #F7F7F7;
+$button-radius
+*/
+@use "../../settings/colors";
 
 .footer {
   box-shadow: 0 -5px 40px #00000029;
@@ -38,7 +50,7 @@
 .footer__copy {
   font-size: 0.6875rem;
   line-height: 1.5rem;
-  color: var(--color-grey);
+  color: colors.$color-grey;
   margin-top: 6px;
 }
 

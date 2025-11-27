@@ -52,6 +52,23 @@
         </section>
         <!-- e: section pricing-->
         */
+/*  Colors scss ->  settings/colors 
+$color-primary: #08A6E4;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+$color-green: #55DFB4;
+$color-black: #000000;
+$color-white: #ffffff;   
+$color-grey: #A5A5A5;
+fonts.$font-raleway; "Raleway", sans-serif;
+fonts.$font-open-sans;  "Open Sans", sans-serif;
+$color-grey: #A5A5A5;
+$color-light-grey: #F7F7F7;
+$button-radius
+*/
+@use "../../settings/fonts";
+@use "../../settings/colors";
+
 .pricing {
     display:flex;
     flex-direction: column;
@@ -100,13 +117,13 @@
 
 .pricing__type {
   font-size: 1.25rem;
-  font-family: var(--font-raleway);
+  font-family: fonts.$font-raleway;
   font-weight: 700;
 }
 
 .pricing__price {
   font-size: 2.875rem;
-  font-family: var(--font-open-sans);
+  font-family: fonts.$font-open-sans;
   font-weight: 300;
   margin-top: 25px;
   color: var(--accent-color);
@@ -116,7 +133,7 @@
   text-align: center;
   margin-top: 15px;
   font-size: 0.75rem;
-  font-family: var(--font-raleway);
+  font-family: fonts.$font-raleway;
   font-weight: 700;
 }
 
@@ -151,7 +168,7 @@
 
 /*** Basic Box ***/
 .pricing__box--basic {
- --accent-color: var(--color-redish);
+ --accent-color: colors.$color-redish; 
 }
 
 .pricing__box--basic .pricing__price {
@@ -164,7 +181,7 @@
   --accent-color: var(--color-primary);
   width: 400px;
   margin: 0 40px;
-  box-shadow: 5px 1px 27px var(--color-primary-shadow);
+  box-shadow: 5px 1px 27px colors.$color-primary-shadow;
 }
 
 .pricing__box--professional .pricing__type {
@@ -177,5 +194,5 @@
 
 /*** Premium Box ***/
 .pricing__box--premium {
-  --accent-color: var(--color-green);
+  --accent-color: colors.$color-green;
 }

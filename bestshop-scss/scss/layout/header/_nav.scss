@@ -1,4 +1,16 @@
 /*  header nav */
+/*  Colors scss ->  settings/colors 
+$color-primary: #08A6E4;   colors.$color-primary;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+$color-green: #55DFB4;
+$color-black: #000000;  colors.$color-black;
+$color-white: #ffffff;
+$color-grey: #A5A5A5;
+$color-light-grey: #F7F7F7;
+$button-radius
+*/
+@use "../../settings/colors";
 
 ul .header__nav {
     display: flex;
@@ -10,7 +22,7 @@ ul .header__nav .nav__element {
     padding: 0 26px;
 }
 .nav__link {
-    color: var(--color-black);
+    color: colors.$color-black;
     font-weight: 700;
     font-size: 0.6875rem;
     text-transform: uppercase;
@@ -20,6 +32,6 @@ ul .header__nav .nav__element {
 }
 
 .nav__link:hover {
-    color: var(--color-black);
-    border-color: var(--color-primary);
+    color: colors.$color-black; 
+    border-color: colors.$color-primary;
 }

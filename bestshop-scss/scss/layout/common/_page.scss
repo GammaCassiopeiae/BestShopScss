@@ -3,31 +3,40 @@
 @use "../../settings/fonts";
 @use "../../settings/index";
 @use "../../mixins/mixins";
-
 @use "../header/header";
 @use "../header/logo";
-
 @use "../common/buttons";
-
-
 @use "../main/main";
 @use "../footer/footer";
 
+/*  Colors scss ->  settings/colors 
+$color-primary: #08A6E4;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+$color-green: #55DFB4;
+$color-black: #000000;
+$color-white: #ffffff;
+$color-grey: #A5A5A5;
+$color-light-grey: #F7F7F7;
+$button-radius
+$font-open-sans
+fonts.$font-raleway;
+*/
 
 body {
-  font-family: var(--font-open-sans);
+  font-family: fonts.$font-open-sans; 
   width: 100%;
 }
 
 a {
   text-decoration: none;
+  
 }
 
 h2 {
-  font-family: var(--font-raleway);
+  font-family: fonts.$font-raleway;
   font-size: 2em; /* 2.25rem  36px */
 }
-
 
 /**
  * kontejner
@@ -36,3 +45,7 @@ h2 {
   width: 1352px;
   margin: 0 auto;
 }
+img { border-radius: 10px;}
+  
+p { line-height: 2.5em; margin-bottom: 20px; color: black;}
+

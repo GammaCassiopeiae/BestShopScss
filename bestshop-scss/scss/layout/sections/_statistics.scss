@@ -31,7 +31,23 @@
         </section>
         <!-- e: section statistics-->
         */
-/*  statistics */
+/*  statistics    colors.$color-redish;  colors.$color-primary; colors.$color-green;
+$color-primary: #08A6E4;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+colors.$color-green;  #55DFB4;
+$color-black: #000000;
+$color-white: #ffffff;
+$color-grey: #A5A5A5;
+$color-light-grey: #F7F7F7;
+
+fonts.$font-raleway;  "Raleway", sans-serif;
+
+*/
+
+@use "../../settings/fonts";
+@use "../../settings/colors";
+
 .statistics {
     margin-top: 100px;
 }
@@ -52,7 +68,7 @@
   justify-content: flex-start;
   align-items: center;
   text-align: center;
-  font-family: var(--font-raleway);
+  font-family: fonts.$font-raleway;
 }
 .statistics__circle {
   border-radius: 50%;
@@ -69,7 +85,7 @@
 }
 
 .statistics__single:nth-child(1) .statistics__circle {
-  background-color: var(--color-redish);
+  background-color: colors.$color-redish; 
 }
 .statistics__single:nth-child(2) .statistics__circle {
   /**/
@@ -83,7 +99,7 @@
 }
 
 .statistics__single:nth-child(2) .statistics__circle {
-  background-color: var(--color-primary);
+  background-color: colors.$color-primary;
 }
 
 .statistics__single:nth-child(2) .statistics__img {
@@ -92,7 +108,7 @@
 }
 
 .statistics__single:nth-child(3) .statistics__circle {
-  background-color: var(--color-green);
+  background-color: colors.$color-green;
 }
 
 .statistics__single:nth-child(3) .statistics__img {
@@ -107,6 +123,6 @@
 }
 
 .statistics__description {
-  color: var(--color-grey);
+  color: colors.$color-grey;  
   margin-top: 19px;
 }

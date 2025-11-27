@@ -1,9 +1,25 @@
+@use "../../settings/colors";
+@use "../../settings/fonts";
+
+/*  Colors scss ->  settings/colors 
+$color-primary: #08A6E4;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+$color-green: #55DFB4;
+$color-black: #000000;
+$color-white: #ffffff;
+$color-grey: #A5A5A5;
+$color-light-grey: #F7F7F7;
+$button-radius
+$font-raleway: "Raleway", sans-serif;
+$font-open-sans: "Open Sans", sans-serif;
+*/
 
 /* logo  */
 .logo {
-  font-family: var(--font-raleway);
+  font-family: fonts.$font-raleway;
   font-size: 2rem;
   font-weight: 300;
-  color: var(--color-primary);
+  color: colors.$color-primary;
 }
 /* e: logo  */

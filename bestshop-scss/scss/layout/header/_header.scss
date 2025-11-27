@@ -16,6 +16,20 @@
 <!-- e: header -->
 */
 /*  header */
+/*  Colors scss ->  settings/colors 
+$color-primary: #08A6E4;
+$color-primary-shadow: rgba(7, 172, 230, .16);
+$color-redish: #FB3B64;
+$color-green: #55DFB4;
+$color-black: #000000;
+$color-white: #ffffff;
+$color-grey: #A5A5A5;
+$color-light-grey: #F7F7F7;
+$button-radius
+$font-raleway: "Raleway", sans-serif;
+$font-open-sans: "Open Sans", sans-serif;
+*/
+
 .header {
     height: 70px;
     box-shadow: 0 3px 6px rgba(0,0,0,.16);
@@ -39,29 +53,3 @@
     
 }
 /*  header */
-/*  header nav */
-
-
-ul .header__nav {
-    display: flex;
-}
-ul .header__nav .nav__element {
-    padding: 0 26px;
-}
-.nav__element:last-child {
-    padding: 0 26px;
-}
-.nav__link {
-    color: var(--color-black);
-    font-weight: 700;
-    font-size: 0.6875rem;
-    text-transform: uppercase;
-    padding: 28px 18px 22px;
-    border-bottom: 4px solid transparent;
-    letter-spacing: 0.1875rem;
-}
-
-.nav__link:hover {
-    color: var(--color-black);
-    border-color: var(--color-primary);
-}

@@ -11,7 +11,7 @@
 */
 
 /*  header */
-
+@use "../../settings/fonts";
 /*  opening */
 .opening {
     display:flex;
@@ -23,7 +23,7 @@
     text-align: center;
 }
 .opening .opening__content .opening__header {
-    font-family: var(--font-raleway);
+    font-family: fonts.$font-raleway; 
     font-size: 3.0625rem;
 }
 
