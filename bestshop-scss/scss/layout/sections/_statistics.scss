@@ -50,6 +50,11 @@ fonts.$font-raleway;  "Raleway", sans-serif;
 
 .statistics {
     margin-top: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    flex-direction: row;
+    
 }
 .statistics .title {
     text-align: center;
@@ -57,7 +62,6 @@ fonts.$font-raleway;  "Raleway", sans-serif;
 .statistics .container {
     max-width: 800px;
     margin: 100px auto 120px;
-    display: flex;
     justify-content: space-between;
 }
 
@@ -65,9 +69,10 @@ fonts.$font-raleway;  "Raleway", sans-serif;
   max-width: 160px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  text-align: center;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: flex-start;
+  /*text-align: center;  */
   font-family: fonts.$font-raleway;
 }
 .statistics__circle {

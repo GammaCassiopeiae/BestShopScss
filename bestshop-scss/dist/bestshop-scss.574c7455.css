@@ -420,6 +420,7 @@ textarea {
 .header .header__container {
   justify-content: space-between;
   align-items: center;
+  width: 1100px;
   height: 100%;
   display: flex;
 }
@@ -429,6 +430,34 @@ textarea {
   font-family: Raleway, sans-serif;
   font-size: 2rem;
   font-weight: 300;
+}
+
+body {
+  width: 100%;
+}
+
+@media only screen and (width <= 650px) {
+  body {
+    width: 95% !important;
+  }
+}
+
+@media only screen and (width >= 1px) and (width <= 980px) {
+  body {
+    width: 90%;
+  }
+}
+
+@media only screen and (width >= 981px) and (width <= 1200px) {
+  body {
+    width: 960px;
+  }
+}
+
+@media only screen and (width >= 1201px) {
+  body {
+    width: 1200px;
+  }
 }
 
 .footer {
@@ -723,7 +752,11 @@ ul .header__nav .nav__element {
 }
 
 .statistics {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
   margin-top: 100px;
+  display: flex;
 }
 
 .statistics .title {
@@ -734,14 +767,12 @@ ul .header__nav .nav__element {
   justify-content: space-between;
   max-width: 800px;
   margin: 100px auto 120px;
-  display: flex;
 }
 
 .statistics__container .statistics__single {
-  text-align: center;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
+  place-content: center space-evenly;
+  align-items: flex-start;
   max-width: 160px;
   font-family: Raleway, sans-serif;
   display: flex;
