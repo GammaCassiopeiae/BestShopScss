@@ -753,10 +753,9 @@ ul .header__nav .nav__element {
 
 .statistics {
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   margin-top: 100px;
-  display: flex;
 }
 
 .statistics .title {
@@ -764,7 +763,7 @@ ul .header__nav .nav__element {
 }
 
 .statistics .container {
-  justify-content: space-between;
+  justify-content: flex-start;
   max-width: 800px;
   margin: 100px auto 120px;
 }
@@ -772,7 +771,6 @@ ul .header__nav .nav__element {
 .statistics__container .statistics__single {
   flex-direction: column;
   place-content: center space-evenly;
-  align-items: flex-start;
   max-width: 160px;
   font-family: Raleway, sans-serif;
   display: flex;
