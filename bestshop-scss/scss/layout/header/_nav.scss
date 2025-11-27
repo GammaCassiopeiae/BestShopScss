@@ -14,12 +14,13 @@ $button-radius
 
 ul .header__nav {
     display: flex;
+    
 }
 ul .header__nav .nav__element {
     padding: 0 26px;
 }
 .nav__element:last-child {
-    padding: 0 26px;
+    /*padding: 0 26px;  */
 }
 .nav__link {
     color: colors.$color-black;
